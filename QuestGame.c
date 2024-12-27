@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
+
 int hp,dmg,class,hrecovery,difficulty;
 void start(){
 	printf("The Game");
